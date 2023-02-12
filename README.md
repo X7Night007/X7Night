@@ -100,5 +100,4 @@ end)
 
 --// Credits Tab
 local Credits = Window:NewTab("Credits")
-local CreditsSection = Credits:NewSection("Scripts Made by BoopiDoosy#5771")
-local CreditsSection = Credits:NewSection("Kavo UI Library Made by xHeptc")
+local CreditsSection = Credits:NewSection("Scripts Made by x7night#0627")
