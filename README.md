@@ -97,7 +97,3 @@ local UISection = UI:NewSection("UI Toggle Keybind")
 UISection:NewKeybind("UI Keybind", "Button to Open/Close the UI", Enum.KeyCode.LeftAlt, function()
 	Library:ToggleUI()
 end)
-
---// Credits Tab
-local Credits = Window:NewTab("Credits")
-local CreditsSection = Credits:NewSection("Scripts Made by x7night#0627")
